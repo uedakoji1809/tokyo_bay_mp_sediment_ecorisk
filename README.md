@@ -1,4 +1,4 @@
-#  Ecological risk assessment of microplastic particles in Tokyo Bay sediments
+# Ecological risk assessment of microplastic particles in Tokyo Bay sediments
 
 Data and analysis scripts for ecological risk assessment of microplastic particles in Tokyo Bay sediments.
 
@@ -24,4 +24,4 @@ All data used in this study are available in this repository.
 
 ## License
 
-The analysis scripts in this repository are licensed under the MIT License. The data are made available for transparency and reproducibility of the associated manuscript.
+The analysis scripts in this repository are licensed under the MIT License. The data are released under Creative Commons Attribution 4.0 International (CC BY 4.0).
